@@ -30,7 +30,7 @@ XML PHP Extension
 
 A step by step series of examples that tell you have to get a development env running:
 ```
-1-Install the composer from the rrot of the project.
+1-Install the composer from the root of the project.
 2-Duplicate .env.exapmle to .env and register the DB info.
 3-run php artisan migration to create the tables.
 4- Run php artisan db:seed.
