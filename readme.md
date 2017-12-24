@@ -113,12 +113,14 @@ Authorization: Bearer + "Token"
 ```
 
 
-### Break down into end to end tests
-
- When fetching the data using  GET request, we should get 200 or 404 in case any error
- When adding a trip (flight) using POST request, we should get 201 or 500 in case any error
- When deleting a trip and using DELETE request, we should get 204 or 500 in case any error
-
+## Break down into end to end tests
+```
+* When fetching the data using  GET request, we should get 200 or 404 in case any error
+ 
+* When adding a trip (flight) using POST request, we should get 201 or 500 in case any error
+ 
+* When deleting a trip and using DELETE request, we should get 204 or 500 in case any error
+```
  
 
 ### And coding style tests
