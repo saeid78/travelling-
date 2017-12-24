@@ -130,9 +130,9 @@ This api tests the http requests (GET,POST,DELETE,..).
  
 ### The Gaurd (Password/Token):
 
-When developping api, one of the important its requirment is to apply the authentication . Laravel gaurd out of the box.
-For real applications we should use Password which was provided afther Laravel 5.3. However for test purpose we can use token.
-In this test we use token instead.
+When developping an api, one of the most important of its requirments is to apply the authentication . Laravel provides gaurd out of the box.
+For real applications we should use Password which was released  afther Laravel version  5.3. However for test purpose, we can use token.
+In this test we use token.
 
  
 ## Built With
